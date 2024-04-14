@@ -1,0 +1,61 @@
+Websites
+
+Website name: Account Jetbrains
+Website URL: http://account.jetbrains.com
+Login name: 
+Login: userName1
+Password: password1
+Comment: My lovely comment
+
+---
+
+Website name: accounts.google.com
+Website URL: https://accounts.google.com
+Login name: 
+Login: userName2.1
+Password: password2.1
+Comment: 
+
+---
+
+Website name: accounts.google.com
+Website URL: accounts.google.com
+Login name: 
+Login: userName2.2
+Password: password2.2
+Comment: 
+
+---
+
+Applications
+
+Application: Dji.com
+Login name: 
+Login: userName3
+Password: password3
+Comment: 
+
+---
+
+Application: App2
+Login name: 
+Login: userName4
+Password: password4
+Comment: Use only at home
+
+---
+
+Application: App3
+Login name: 
+Login: userName5
+Password: password5
+Comment: 
+
+---
+
+Notes
+
+Name: My lovely note
+Text: 1234
+
+---
